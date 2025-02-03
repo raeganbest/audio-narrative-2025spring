@@ -1,1 +1,1 @@
-This is the future site of Raegan's audio narrative
+Note: "Gameday" is the official name of my audio narrative
