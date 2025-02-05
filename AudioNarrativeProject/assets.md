@@ -9,6 +9,6 @@ Soccer Supporters in the Street.wav by Julien_Matthey -- https://freesound.org/s
 
 Soccer Kicking a football by dersuperanton -- https://freesound.org/s/433722/ -- License: Attribution 4.0
 
-Personal recording - Breathing, Raegan Best
+Breathing, Raegan Best, Personal Recording
 
-Personal recording - Dribbling, Raegan Best
+Dribbling, Raegan Best, Personal Recording
