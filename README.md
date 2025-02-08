@@ -8,6 +8,14 @@ If I were to be completely honest, I ran into quite a few issues with Audacity. 
 
 While I was gradually creating and refining my piece, I found myself getting frustrated with how it was turning out. The shifting of perspectives was something I could illustrate very well in my mind, but it was hard to translate into a purely audio format. However, given my lack of previous experience, I feel that my final draft came out fairly well.
 
+**Early Stages**
+<img width="1440" alt="audio narrative on 2:5:2025" src="https://github.com/user-attachments/assets/bf46b4e6-9d5d-44cb-b7a1-f8e4ee9257a9" />
+
+
+**Final Draft**
+<img width="1346" alt="audio narative final draft 2:8:2025" src="https://github.com/user-attachments/assets/71517a6b-cf41-43d6-8bd9-928ddb80c8fb" />
+
+
 ### Baseline Requirements
 Despite my initial difficulties meeting the time minimum, I managed to meet all the baseline requirements for the project. In the end, my narrative ended up being around 1 minute 55 seconds. To depict change in my piece, I had it start with the crowd making its way to the stadium and then shift to the game itself with the sound of the whistle. Throughout the match, I went back and forth between highlighting the player and the crowd, which was another way I shifted perspectives and situational locations. There were three main sounds recorded by me - dribbling, breathing, and the person yelling "hey" - and the rest of them were found on FreeSound. I technically layered four tracks of sound overlapping at various times throughout the piece, but to make sure my AUP3 file would export properly, only 3 layers are depicted.  
 
