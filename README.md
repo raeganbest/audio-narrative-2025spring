@@ -9,7 +9,7 @@ If I were to be completely honest, I ran into quite a few issues with Audacity. 
 While I was gradually creating and refining my piece, I found myself getting frustrated with how it was turning out. The shifting of perspectives was something I could illustrate very well in my mind, but it was hard to translate into a purely audio format. However, given my lack of previous experience, I feel that my final draft came out fairly well.
 
 **Early Stages**
-<img width="1440" alt="audio narrative on 2:5:2025" src="https://github.com/user-attachments/assets/bf46b4e6-9d5d-44cb-b7a1-f8e4ee9257a9" />
+<img width="1440" alt="audio narrative progress 1:28" src="https://github.com/user-attachments/assets/8ca9cbd7-e23c-45cd-adf5-090e5629c9b4" />
 
 
 **Final Draft**
