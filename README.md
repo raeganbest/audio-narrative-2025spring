@@ -16,6 +16,7 @@ I did a lot of playing around with different effects to construct my piece. Some
 
 
 **Low pass and distortion**
+
 <img width="217" alt="Image" src="https://github.com/user-attachments/assets/65ab7fae-c865-4287-994d-0fab4dcc8877" />
 To enhance the feeling that the game is taking place in a stadium, I used low-pass to add distance to the clips. The screenshot above includes the guidelines I used to gradually make the crowd sound further and further away. To supplement this feeling, I also used distortion effects. I used the effects to further immerse the listener into the scene, taking on the feelings of the player as they focus more on the game and less on the outside noise.
 
