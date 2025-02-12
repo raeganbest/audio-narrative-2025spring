@@ -8,6 +8,14 @@ If I were to be completely honest, I ran into quite a few issues with Audacity. 
 
 While I was gradually creating and refining my piece, I found myself getting frustrated with how it was turning out. The shifting of perspectives was something I could illustrate very well in my mind, but it was hard to translate into a purely audio format. However, given my lack of previous experience, I feel that my final draft came out fairly well.
 
+**Early Stages**
+<img width="1440" alt="audio narrative progress 1:28" src="https://github.com/user-attachments/assets/8ca9cbd7-e23c-45cd-adf5-090e5629c9b4" />
+
+
+**Final Draft**
+<img width="1346" alt="audio narative final draft 2:8:2025" src="https://github.com/user-attachments/assets/71517a6b-cf41-43d6-8bd9-928ddb80c8fb" />
+
+
 ### Baseline Requirements
 Despite my initial difficulties meeting the time minimum, I managed to meet all the baseline requirements for the project. In the end, my narrative ended up being around 1 minute 55 seconds. To depict change in my piece, I had it start with the crowd making its way to the stadium and then shift to the game itself with the sound of the whistle. Throughout the match, I went back and forth between highlighting the player and the crowd, which was another way I shifted perspectives and situational locations. There were three main sounds recorded by me - dribbling, breathing, and the person yelling "hey" - and the rest of them were found on FreeSound. I technically layered four tracks of sound overlapping at various times throughout the piece, but to make sure my AUP3 file would export properly, only 3 layers are depicted.  
 
@@ -16,23 +24,30 @@ I did a lot of playing around with different effects to construct my piece. Some
 
 
 **Low pass and distortion**
+
 <img width="217" alt="Image" src="https://github.com/user-attachments/assets/65ab7fae-c865-4287-994d-0fab4dcc8877" />
+
 To enhance the feeling that the game is taking place in a stadium, I used low-pass to add distance to the clips. The screenshot above includes the guidelines I used to gradually make the crowd sound further and further away. To supplement this feeling, I also used distortion effects. I used the effects to further immerse the listener into the scene, taking on the feelings of the player as they focus more on the game and less on the outside noise.
 
 
 **Pitch**
+
 <img width="913" alt="Image" src="https://github.com/user-attachments/assets/4ed468f0-8008-4b28-ae93-6caf5f5aa72a" />
+
 When the player yelled "hey!," I wanted to make them sound more masculine. To do so, I recorded myself doing the yelling, but then altered the pitch so that the voice was lower. 
 
 
 **Spectral Tools**
+
 <img width="1248" alt="Image" src="https://github.com/user-attachments/assets/927536c7-c36b-4992-bd21-2cf6e1168f7a" />
+
 When I recorded the clips of me dribbling, I was outside near a construction site on a relatively windy day. I used the spectral tools in an attempt to enhance the sound of just the grass and the ball, and cut out most of the background noise. 
 
 
 ### Peer Feedback
 
 <img width="922" alt="Image" src="https://github.com/user-attachments/assets/c42390cc-2dbe-4c42-97ab-3d2984f303cb" />
+
 A common theme among my feedback was that it was unclear that it was a soccer game happening. To try to make it more evident for those who are not knowledgeable or aware of these types of events, I used the spectral tool to enhance the sound of the person dribbling. The other things they mentioned (like having a goal scored) had already been included, so I mostly focused on the player side of things to make the setting more clear.
 
 ### Conclusions
